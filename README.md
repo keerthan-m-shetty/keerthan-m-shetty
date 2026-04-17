@@ -15,14 +15,20 @@ Because I understand the entire data lifecycle, I don't just fine-tune Large Lan
 
 ### 🛠️ Tech Stack
 <div align="center">
-  <p><strong>Machine Learning & AI</strong></p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,huggingface,scikitlearn" />
+  <h4>Machine Learning & AI</h4>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" />
+  <br>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <br><br>
-  <p><strong>Data Engineering & Analytics</strong></p>
-  <img src="https://skillicons.dev/icons?i=sql,postgres,mysql,spark,pandas,tableau" />
+  
+  <h4>Data Engineering & Analytics</h4>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,fastapi,rabbitmq" />
   <br><br>
-  <p><strong>Cloud & DevOps</strong></p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,git,linux,bash" />
+  
+  <h4>Cloud & DevOps</h4>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,git,linux,bash,githubactions" />
 </div>
 
 ---
