@@ -1,9 +1,11 @@
 <div align="center">
   <h1>Hi, I'm Keerthan Shetty</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=Machine+Learning+Engineer;Full-Stack+Data+Professional;LLM+Fine-Tuning+%7C+ETL+Pipelines;Based+in+Germany+%F0%9F%87%A9%F0%9F%87%AA" alt="Typing SVG" />
+  <h3>Machine Learning Engineer | Full-Stack Data Professional</h3>
+  <p>LLM Fine-Tuning | ETL Pipelines | Based in Germany</p>
   <br>
   <img src="https://komarev.com/ghpvc/?username=keerthan-m-shetty&color=0077B5&style=flat-square" alt="Profile Views" />
 </div>
+
 
 ---
 
