@@ -47,12 +47,17 @@ Because I understand the entire data lifecycle, I don't just fine-tune Large Lan
 
 ---
 
-### 📊 GitHub Stats
+### ▪ GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=keerthan-m-shetty&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthan-m-shetty&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=keerthan-m-shetty&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthan-m-shetty&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" />
 </div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keerthan-m-shetty&theme=tokyonight" alt="GitHub Activity Graph" />
+</div>
+
 
 ---
 
