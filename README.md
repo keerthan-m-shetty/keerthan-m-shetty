@@ -65,14 +65,14 @@ Because I understand the entire data lifecycle, I don't just fine-tune Large Lan
 
 ### GitHub Stats
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=keerthan-m-shetty&theme=tokyonight&hide_border=true&show_icons=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=keerthan-m-shetty&theme=tokyonight" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keerthan-m-shetty&theme=tokyonight" alt="GitHub Activity Graph" />
-</div>
+<p align="center">
+  <a href="https://github.com/keerthan-m-shetty">
+    <img src="https://github-readme-stats.vercel.app/api?username=keerthan-m-shetty&theme=tokyonight&hide_border=true&show_icons=true&bg_color=0D1117" height="180" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/keerthan-m-shetty">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=keerthan-m-shetty&theme=tokyonight" height="180" alt="Top Languages" />
+  </a>
+</p>
 
 ---
 
